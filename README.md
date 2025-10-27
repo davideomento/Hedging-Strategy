@@ -29,14 +29,14 @@ Determine the **optimal combination of derivatives** that minimizes the company'
 ## 📁 Project Structure
 
 RiskManagementProject/
-├── .vscode/ # VSCode configuration files
-├── files_analysis/ # Folder containing analysis data/files
-├── images_report/ # Folder with images for the report
-├── DataServer.py # Script to manage data server
-├── GenerateScenarios.py # Script for generating scenarios
-├── HedgingModel.py # Script implementing the hedging model
-├── PricingDerivatives.py # Script for pricing derivative instruments
-├── README.md # Project README
-├── analysis_notebook.ipynb # Jupyter notebook for analysis
-├── main.py # Main script to run the project
-└── report_Omento_Racca_Ruffinello.pdf # Final project report
+├── .vscode/                                # VSCode configuration files
+├── files_analysis/                         # Folder containing analysis data/files
+├── images_report/                          # Folder with images for the report
+├── DataServer.py                           # Script to manage data server
+├── GenerateScenarios.py                    # Script for generating scenarios
+├── HedgingModel.py                         # Script implementing the hedging model
+├── PricingDerivatives.py                   # Script for pricing derivative instruments
+├── README.md                               # Project README
+├── analysis_notebook.ipynb                 # Jupyter notebook for analysis
+├── main.py                                 # Main script to run the project
+└── report_Omento_Racca_Ruffinello.pdf      # Final project report
