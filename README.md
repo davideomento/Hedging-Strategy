@@ -28,6 +28,7 @@ Determine the **optimal combination of derivatives** that minimizes the company'
 
 ## 📁 Project Structure
 
+```tree
 RiskManagementProject/
 ├── .vscode/                                # VSCode configuration files
 ├── files_analysis/                         # Folder containing analysis data/files
