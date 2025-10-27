@@ -1,9 +1,3 @@
-# Risk Management Project
-
-Project developed in collaboration with Giulio Ruffinello and Matteo Racca.
-
----
-
 ## 💱 Currency Risk Management for an American Company
 
 This project addresses the **currency risk exposure** of an American company organizing trips to the Euro area for students. The company needs to cover costs in euros, which exposes it to fluctuations in the euro-dollar exchange rate.  
